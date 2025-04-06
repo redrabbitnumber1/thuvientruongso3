@@ -1,0 +1,46 @@
+.display{
+    display: inline-block;
+ }
+ .block-inline{
+    display: inline-block; padding: 10px; margin: 10px
+ }
+ .inline-item {
+display: inline-block;
+margin: 10px;
+background-color: lightblue;}
+.block {
+  display: inline-block;
+}
+.list_type {
+  list-style-type: none;
+}
+a h3{ color: white}
+nav{
+    display: inline-block; padding: 1px 1px 1px 45px; margin:1px 1px 1px 4px; ; 
+}
+il{
+  display: inline-block; padding: 30px;
+}
+il h2{
+  text-align: center;
+}
+il img{
+  width: 250px;
+  height: 400px;
+}
+il a{
+  text-decoration: none;
+}
+.headimage{
+  background-image: url('https://mega.com.vn/media/news/1709_mysao.png'); /* Replace with your image */
+  background-repeat: no-repeat;
+  background-size: auto; /* Keeps the original size */
+  background-position: center; /* Or center, right, etc. */
+  padding: 200px; /* Adjust this depending on your image size */
+}
+.headbackgroundcolor{
+  margin:9px; background-color: rgba(169, 167, 167, 0.4); color: black;
+}
+.headtext{
+  text-align: center;font-size: 240%; font-family: 'Times New Roman', Times, serif;opacity: 1
+}
